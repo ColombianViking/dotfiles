@@ -1,0 +1,13 @@
+rofi.opacity: 	95
+rofi.bw: 	0
+rofi.padding: 	300
+rofi.fullscreen: true
+rofi.eh:	2
+rofi.lines:	5
+rofi.color-enabled:
+rofi.separator-style: "none"
+rofi.color-normal: #2f343f, #f3f4f5, #2f343f, #2f343f, #9575cd 
+rofi.color-urgent: #2f343f, #f3f4f5, #2f343f, #2f343f, #9575cd 
+rofi.color-active: #2f343f, #f3f4f5, #2f343f, #2f343f, #9575cd
+rofi.color-window: #2f343f 
+rofi.m: -4
